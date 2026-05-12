@@ -29,6 +29,7 @@ public class StingReverse {
         {
                 revString[i]=name.charAt(i);
         }
+        
         //print the character array
          for(int i=0;i<name.length();i++)
         {
